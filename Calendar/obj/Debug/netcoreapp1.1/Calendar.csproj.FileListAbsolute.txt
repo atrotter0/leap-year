@@ -1,0 +1,7 @@
+/Users/abeltrotter/Documents/git/epicodus/c-sharp/calendar/Calendar.Solution/Calendar/bin/Debug/netcoreapp1.1/Calendar.deps.json
+/Users/abeltrotter/Documents/git/epicodus/c-sharp/calendar/Calendar.Solution/Calendar/bin/Debug/netcoreapp1.1/Calendar.dll
+/Users/abeltrotter/Documents/git/epicodus/c-sharp/calendar/Calendar.Solution/Calendar/bin/Debug/netcoreapp1.1/Calendar.pdb
+/Users/abeltrotter/Documents/git/epicodus/c-sharp/calendar/Calendar.Solution/Calendar/obj/Debug/netcoreapp1.1/Calendar.csproj.CoreCompileInputs.cache
+/Users/abeltrotter/Documents/git/epicodus/c-sharp/calendar/Calendar.Solution/Calendar/obj/Debug/netcoreapp1.1/Calendar.AssemblyInfo.cs
+/Users/abeltrotter/Documents/git/epicodus/c-sharp/calendar/Calendar.Solution/Calendar/obj/Debug/netcoreapp1.1/Calendar.dll
+/Users/abeltrotter/Documents/git/epicodus/c-sharp/calendar/Calendar.Solution/Calendar/obj/Debug/netcoreapp1.1/Calendar.pdb
